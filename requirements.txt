@@ -1,0 +1,7 @@
+django == 4.0.4
+pillow==9.0.1
+django-admin-interface
+django-crispy-forms
+django-rest-framework
+social-auth-app-django
+django-ckeditor==6.2.0
